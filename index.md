@@ -1,5 +1,5 @@
 <div>
-<img src="https://secure.meetupstatic.com/photos/event/3/3/3/a/600_471733114.jpeg"
+<img src="https://secure.meetupstatic.com/photos/event/3/3/3/a/600_471733114.jpeg">
 </div>
 
 ## About NH Python
